@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfe2c3f-1ab7-46dc-af28-25058bc1ed08" name="Changes" comment="test run using cli">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="7bfe2c3f-1ab7-46dc-af28-25058bc1ed08" name="Changes" comment="jenkins integration running from local">
+      <change afterPath="$PROJECT_DIR$/PythonDemo.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testData/excelDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonSelFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonSelFramework.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/testData/HomePageData.py" beforeDir="false" afterPath="$PROJECT_DIR$/testData/HomePageData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_HomePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_HomePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_e2e.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_e2e.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +45,13 @@
     "Python tests.Python tests for test_e2e.TestOne.executor": "Run",
     "Python tests.Python tests for test_e2e.TestOne.test_e2e.executor": "Run",
     "Python tests.Python tests in test_e2e.py.executor": "Run",
+    "Python.excelDemo.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/KranthiKumarPanda/PycharmProjects/pythonSelFramework",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
   "keyToStringList": {
@@ -53,7 +60,34 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\KranthiKumarPanda\PycharmProjects\pythonSelFramework" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python tests.Python tests for test_HomePage.TestHomePage">
+    <configuration name="excelDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonSelFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testData" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testData/excelDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonSelFramework" />
       <option name="ENV_FILES" value="" />
@@ -139,6 +173,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Python tests for test_HomePage.TestHomePage" />
+        <item itemvalue="Python.excelDemo" />
         <item itemvalue="Python tests.Python tests for test_e2e.TestOne.test_e2e" />
         <item itemvalue="Python tests.Python tests for test_e2e.TestOne" />
         <item itemvalue="Python tests.Python tests in test_e2e.py" />
@@ -249,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713262974385</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="jenkins integration running from local">
+      <option name="closed" value="true" />
+      <created>1713267925971</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713267925971</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -262,6 +305,7 @@
     <MESSAGE value="Parameterizing the Tests with multiple Data sets using Dictionary in seperate test data class from test data package" />
     <MESSAGE value=" Implementing Logging feature and Generating HTML Reports with Logging Integration" />
     <MESSAGE value="test run using cli" />
-    <option name="LAST_COMMIT_MESSAGE" value="test run using cli" />
+    <MESSAGE value="jenkins integration running from local" />
+    <option name="LAST_COMMIT_MESSAGE" value="jenkins integration running from local" />
   </component>
 </project>

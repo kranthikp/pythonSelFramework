@@ -1,3 +1,5 @@
+import pytest
+
 from pageObjects.CheckoutPage import CheckOutPage
 from pageObjects.ConfirmPage import ConfirmPage
 from pageObjects.HomePage import HomePage
