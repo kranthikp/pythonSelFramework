@@ -7,11 +7,13 @@ from utilities.BaseClass import BaseClass
 class TestOne(BaseClass):
 
     def test_e2e(self):
-        # login into homepage
+        log = self.getLogger()
+        # login into homepage"
         homePage = HomePage(self.driver)
         # click Shop on Header to navigated to checkout page
         checkOutPage = homePage.clickShopItems()
         # get product details
+        log.info("Getting all the product titles")
         productList = checkOutPage.getProductTitles()
         # select product
         checkOutPage.selectProduct(productList, "Blackberry")
@@ -19,6 +21,7 @@ class TestOne(BaseClass):
         checkOutPage.clickCheckoutItems()
         # final click checkout button
         confirmPage = checkOutPage.clickCheckOutBtn()
+        log.info("Entering the country name as Ind")
         # enter Text "ind"
         confirmPage.enterCountryTextBox("Ind")
         # verify India is present on dropdown list
@@ -31,6 +34,7 @@ class TestOne(BaseClass):
         confirmPage.clickPurchaseBtn()
         # get alert success text
         actual_message = confirmPage.getAlertText().text
+        log.info("text received from app is "+actual_message)
         # assert the expected message with the actual message
         confirmPage.validateAlertText("Success! Thank you!", actual_message)
 
