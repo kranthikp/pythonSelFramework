@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfe2c3f-1ab7-46dc-af28-25058bc1ed08" name="Changes" comment="Implement Data driven mechanism by removing hard coding data from tests">
+    <list default="true" id="7bfe2c3f-1ab7-46dc-af28-25058bc1ed08" name="Changes" comment="Implement Data driven mechanism by with Dictionary instead of tuples">
+      <change afterPath="$PROJECT_DIR$/testData/HomePageData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testData/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_HomePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_HomePage.py" afterDir="false" />
     </list>
@@ -202,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713259848825</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Implement Data driven mechanism by with Dictionary instead of tuples">
+      <option name="closed" value="true" />
+      <created>1713260092600</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713260092600</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -211,6 +221,7 @@
     <MESSAGE value="sample pytest cli run with html report for e2e test case" />
     <MESSAGE value="segregate page objects&#10;implement dry using custom utilities&#10;reusable method under BaseClass.py" />
     <MESSAGE value="Implement Data driven mechanism by removing hard coding data from tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement Data driven mechanism by removing hard coding data from tests" />
+    <MESSAGE value="Implement Data driven mechanism by with Dictionary instead of tuples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement Data driven mechanism by with Dictionary instead of tuples" />
   </component>
 </project>

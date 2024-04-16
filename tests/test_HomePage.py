@@ -1,6 +1,7 @@
 import pytest
 
 from pageObjects.HomePage import HomePage
+from testData.HomePageData import HomePageData
 from utilities.BaseClass import BaseClass
 
 
@@ -24,7 +25,6 @@ class TestHomePage(BaseClass):
 
         self.driver.refresh()
 
-    @pytest.fixture(params=[{"firstname": "Kranthi", "lastname": "Panda", "gender": "Male"},
-                            {"firstname": "Sagar", "lastname": "Mittapelly", "gender": "Male"}])
+    @pytest.fixture(params=HomePageData.test_HomePage_data)
     def getData(self, request):
         return request.param
