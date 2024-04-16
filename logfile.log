@@ -1,0 +1,151 @@
+2024-04-16 15:22:19,516 :INFO : test_e2e :Getting all the product titles
+2024-04-16 15:22:19,714 :INFO : test_e2e :Entering the country name as Ind
+2024-04-16 15:22:25,061 :INFO : test_e2e :text received from app is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-16 15:25:18,054 :INFO : test_formSubmission :First Name is Kranthi
+2024-04-16 15:25:18,131 :INFO : test_formSubmission :Last Name is Panda
+2024-04-16 15:25:18,275 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:25:18,477 :INFO : test_formSubmission :First Name is Sagar
+2024-04-16 15:25:18,477 :INFO : test_formSubmission :First Name is Sagar
+2024-04-16 15:25:18,526 :INFO : test_formSubmission :Last Name is Mittapelly
+2024-04-16 15:25:18,526 :INFO : test_formSubmission :Last Name is Mittapelly
+2024-04-16 15:25:18,658 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:25:18,658 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:25:18,803 :INFO : test_formSubmission :First Name is Ravi Teja
+2024-04-16 15:25:18,803 :INFO : test_formSubmission :First Name is Ravi Teja
+2024-04-16 15:25:18,803 :INFO : test_formSubmission :First Name is Ravi Teja
+2024-04-16 15:25:18,850 :INFO : test_formSubmission :Last Name is Korati
+2024-04-16 15:25:18,850 :INFO : test_formSubmission :Last Name is Korati
+2024-04-16 15:25:18,850 :INFO : test_formSubmission :Last Name is Korati
+2024-04-16 15:25:18,979 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:25:18,979 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:25:18,979 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:25:19,129 :INFO : test_formSubmission :First Name is Siva
+2024-04-16 15:25:19,129 :INFO : test_formSubmission :First Name is Siva
+2024-04-16 15:25:19,129 :INFO : test_formSubmission :First Name is Siva
+2024-04-16 15:25:19,129 :INFO : test_formSubmission :First Name is Siva
+2024-04-16 15:25:19,161 :INFO : test_formSubmission :Last Name is Lakshmi
+2024-04-16 15:25:19,161 :INFO : test_formSubmission :Last Name is Lakshmi
+2024-04-16 15:25:19,161 :INFO : test_formSubmission :Last Name is Lakshmi
+2024-04-16 15:25:19,161 :INFO : test_formSubmission :Last Name is Lakshmi
+2024-04-16 15:25:19,269 :INFO : test_formSubmission :Gender is Female
+2024-04-16 15:25:19,269 :INFO : test_formSubmission :Gender is Female
+2024-04-16 15:25:19,269 :INFO : test_formSubmission :Gender is Female
+2024-04-16 15:25:19,269 :INFO : test_formSubmission :Gender is Female
+2024-04-16 15:25:19,462 :INFO : test_formSubmission :First Name is Venkatesh
+2024-04-16 15:25:19,462 :INFO : test_formSubmission :First Name is Venkatesh
+2024-04-16 15:25:19,462 :INFO : test_formSubmission :First Name is Venkatesh
+2024-04-16 15:25:19,462 :INFO : test_formSubmission :First Name is Venkatesh
+2024-04-16 15:25:19,462 :INFO : test_formSubmission :First Name is Venkatesh
+2024-04-16 15:25:19,505 :INFO : test_formSubmission :Last Name is Godishala
+2024-04-16 15:25:19,505 :INFO : test_formSubmission :Last Name is Godishala
+2024-04-16 15:25:19,505 :INFO : test_formSubmission :Last Name is Godishala
+2024-04-16 15:25:19,505 :INFO : test_formSubmission :Last Name is Godishala
+2024-04-16 15:25:19,505 :INFO : test_formSubmission :Last Name is Godishala
+2024-04-16 15:25:19,630 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:25:19,630 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:25:19,630 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:25:19,630 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:25:19,630 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:25:22,218 :INFO : test_e2e :Getting all the product titles
+2024-04-16 15:25:22,395 :INFO : test_e2e :Entering the country name as Ind
+2024-04-16 15:25:27,785 :INFO : test_e2e :text received from app is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-16 15:27:42,164 :INFO : test_formSubmission :First Name is Kranthi
+2024-04-16 15:27:42,221 :INFO : test_formSubmission :Last Name is Panda
+2024-04-16 15:27:42,720 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:27:45,756 :INFO : test_formSubmission :First Name is Sagar
+2024-04-16 15:27:45,756 :INFO : test_formSubmission :First Name is Sagar
+2024-04-16 15:27:45,773 :INFO : test_formSubmission :Last Name is Mittapelly
+2024-04-16 15:27:45,773 :INFO : test_formSubmission :Last Name is Mittapelly
+2024-04-16 15:27:46,247 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:27:46,247 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:27:48,782 :INFO : test_formSubmission :First Name is Ravi Teja
+2024-04-16 15:27:48,782 :INFO : test_formSubmission :First Name is Ravi Teja
+2024-04-16 15:27:48,782 :INFO : test_formSubmission :First Name is Ravi Teja
+2024-04-16 15:27:48,798 :INFO : test_formSubmission :Last Name is Korati
+2024-04-16 15:27:48,798 :INFO : test_formSubmission :Last Name is Korati
+2024-04-16 15:27:48,798 :INFO : test_formSubmission :Last Name is Korati
+2024-04-16 15:27:49,273 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:27:49,273 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:27:49,273 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:27:53,357 :INFO : test_formSubmission :First Name is Siva
+2024-04-16 15:27:53,357 :INFO : test_formSubmission :First Name is Siva
+2024-04-16 15:27:53,357 :INFO : test_formSubmission :First Name is Siva
+2024-04-16 15:27:53,357 :INFO : test_formSubmission :First Name is Siva
+2024-04-16 15:27:53,376 :INFO : test_formSubmission :Last Name is Lakshmi
+2024-04-16 15:27:53,376 :INFO : test_formSubmission :Last Name is Lakshmi
+2024-04-16 15:27:53,376 :INFO : test_formSubmission :Last Name is Lakshmi
+2024-04-16 15:27:53,376 :INFO : test_formSubmission :Last Name is Lakshmi
+2024-04-16 15:27:53,854 :INFO : test_formSubmission :Gender is Female
+2024-04-16 15:27:53,854 :INFO : test_formSubmission :Gender is Female
+2024-04-16 15:27:53,854 :INFO : test_formSubmission :Gender is Female
+2024-04-16 15:27:53,854 :INFO : test_formSubmission :Gender is Female
+2024-04-16 15:27:58,308 :INFO : test_formSubmission :First Name is Venkatesh
+2024-04-16 15:27:58,308 :INFO : test_formSubmission :First Name is Venkatesh
+2024-04-16 15:27:58,308 :INFO : test_formSubmission :First Name is Venkatesh
+2024-04-16 15:27:58,308 :INFO : test_formSubmission :First Name is Venkatesh
+2024-04-16 15:27:58,308 :INFO : test_formSubmission :First Name is Venkatesh
+2024-04-16 15:27:58,333 :INFO : test_formSubmission :Last Name is Godishala
+2024-04-16 15:27:58,333 :INFO : test_formSubmission :Last Name is Godishala
+2024-04-16 15:27:58,333 :INFO : test_formSubmission :Last Name is Godishala
+2024-04-16 15:27:58,333 :INFO : test_formSubmission :Last Name is Godishala
+2024-04-16 15:27:58,333 :INFO : test_formSubmission :Last Name is Godishala
+2024-04-16 15:27:58,815 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:27:58,815 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:27:58,815 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:27:58,815 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:27:58,815 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:28:09,373 :INFO : test_e2e :Getting all the product titles
+2024-04-16 15:28:10,178 :INFO : test_e2e :Entering the country name as Ind
+2024-04-16 15:28:16,292 :INFO : test_e2e :text received from app is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-16 15:28:52,209 :INFO : test_formSubmission :First Name is Kranthi
+2024-04-16 15:28:52,268 :INFO : test_formSubmission :Last Name is Panda
+2024-04-16 15:28:52,432 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:28:52,629 :INFO : test_formSubmission :First Name is Sagar
+2024-04-16 15:28:52,629 :INFO : test_formSubmission :First Name is Sagar
+2024-04-16 15:28:52,676 :INFO : test_formSubmission :Last Name is Mittapelly
+2024-04-16 15:28:52,676 :INFO : test_formSubmission :Last Name is Mittapelly
+2024-04-16 15:28:52,826 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:28:52,826 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:28:52,982 :INFO : test_formSubmission :First Name is Ravi Teja
+2024-04-16 15:28:52,982 :INFO : test_formSubmission :First Name is Ravi Teja
+2024-04-16 15:28:52,982 :INFO : test_formSubmission :First Name is Ravi Teja
+2024-04-16 15:28:53,027 :INFO : test_formSubmission :Last Name is Korati
+2024-04-16 15:28:53,027 :INFO : test_formSubmission :Last Name is Korati
+2024-04-16 15:28:53,027 :INFO : test_formSubmission :Last Name is Korati
+2024-04-16 15:28:53,164 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:28:53,164 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:28:53,164 :INFO : test_formSubmission :Gender is Male
+2024-04-16 15:28:53,314 :INFO : test_formSubmission :First Name is Siva
+2024-04-16 15:28:53,314 :INFO : test_formSubmission :First Name is Siva
+2024-04-16 15:28:53,314 :INFO : test_formSubmission :First Name is Siva
+2024-04-16 15:28:53,314 :INFO : test_formSubmission :First Name is Siva
+2024-04-16 15:28:53,356 :INFO : test_formSubmission :Last Name is Lakshmi
+2024-04-16 15:28:53,356 :INFO : test_formSubmission :Last Name is Lakshmi
+2024-04-16 15:28:53,356 :INFO : test_formSubmission :Last Name is Lakshmi
+2024-04-16 15:28:53,356 :INFO : test_formSubmission :Last Name is Lakshmi
+2024-04-16 15:28:53,481 :INFO : test_formSubmission :Gender is Female
+2024-04-16 15:28:53,481 :INFO : test_formSubmission :Gender is Female
+2024-04-16 15:28:53,481 :INFO : test_formSubmission :Gender is Female
+2024-04-16 15:28:53,481 :INFO : test_formSubmission :Gender is Female
+2024-04-16 15:28:53,666 :INFO : test_formSubmission :First Name is Venkatesh
+2024-04-16 15:28:53,666 :INFO : test_formSubmission :First Name is Venkatesh
+2024-04-16 15:28:53,666 :INFO : test_formSubmission :First Name is Venkatesh
+2024-04-16 15:28:53,666 :INFO : test_formSubmission :First Name is Venkatesh
+2024-04-16 15:28:53,666 :INFO : test_formSubmission :First Name is Venkatesh
+2024-04-16 15:28:53,711 :INFO : test_formSubmission :Last Name is Godishala
+2024-04-16 15:28:53,711 :INFO : test_formSubmission :Last Name is Godishala
+2024-04-16 15:28:53,711 :INFO : test_formSubmission :Last Name is Godishala
+2024-04-16 15:28:53,711 :INFO : test_formSubmission :Last Name is Godishala
+2024-04-16 15:28:53,711 :INFO : test_formSubmission :Last Name is Godishala
+2024-04-16 15:28:53,854 :INFO : test_formSubmission :Gender is male
+2024-04-16 15:28:53,854 :INFO : test_formSubmission :Gender is male
+2024-04-16 15:28:53,854 :INFO : test_formSubmission :Gender is male
+2024-04-16 15:28:53,854 :INFO : test_formSubmission :Gender is male
+2024-04-16 15:28:53,854 :INFO : test_formSubmission :Gender is male
+2024-04-16 15:28:58,058 :INFO : test_e2e :Getting all the product titles
+2024-04-16 15:28:58,236 :INFO : test_e2e :Entering the country name as Ind
+2024-04-16 15:29:03,598 :INFO : test_e2e :text received from app is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).

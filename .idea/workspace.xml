@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfe2c3f-1ab7-46dc-af28-25058bc1ed08" name="Changes" comment="Parameterizing the Tests with multiple Data sets using Dictionary in seperate test data class from test data package">
+    <list default="true" id="7bfe2c3f-1ab7-46dc-af28-25058bc1ed08" name="Changes" comment=" Implementing Logging feature and Generating HTML Reports with Logging Integration">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testData/HomePageData.py" beforeDir="false" afterPath="$PROJECT_DIR$/testData/HomePageData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_HomePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_HomePage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_e2e.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_e2e.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities/BaseClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/BaseClass.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713260479217</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=" Implementing Logging feature and Generating HTML Reports with Logging Integration">
+      <option name="closed" value="true" />
+      <created>1713261615678</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713261615678</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -233,6 +236,7 @@
     <MESSAGE value="Implement Data driven mechanism by removing hard coding data from tests" />
     <MESSAGE value="Implement Data driven mechanism by with Dictionary instead of tuples" />
     <MESSAGE value="Parameterizing the Tests with multiple Data sets using Dictionary in seperate test data class from test data package" />
-    <option name="LAST_COMMIT_MESSAGE" value="Parameterizing the Tests with multiple Data sets using Dictionary in seperate test data class from test data package" />
+    <MESSAGE value=" Implementing Logging feature and Generating HTML Reports with Logging Integration" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Implementing Logging feature and Generating HTML Reports with Logging Integration" />
   </component>
 </project>
