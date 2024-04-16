@@ -52,6 +52,8 @@ The project structure is organized as follows:
 
 Pytest generates detailed HTML reports after test execution. You can find the reports in the `reports` directory.
 
-## Contributing
+## Disclaimer
 
-Contributions are welcome! If you encounter any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
+Note: Just for Proof of Concept
+
+- Author : `kranthikp`
