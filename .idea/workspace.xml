@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfe2c3f-1ab7-46dc-af28-25058bc1ed08" name="Changes" comment="jenkins integration running from local">
-      <change afterPath="$PROJECT_DIR$/PythonDemo.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/excelDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonSelFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonSelFramework.iml" afterDir="false" />
+    <list default="true" id="7bfe2c3f-1ab7-46dc-af28-25058bc1ed08" name="Changes" comment="jenkins integration running from local&#10;excel demo integration for data driven">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testData/HomePageData.py" beforeDir="false" afterPath="$PROJECT_DIR$/testData/HomePageData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_HomePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_HomePage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_e2e.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_e2e.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -292,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713267925971</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="jenkins integration running from local&#10;excel demo integration for data driven">
+      <option name="closed" value="true" />
+      <created>1713276274551</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1713276274552</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -306,6 +313,7 @@
     <MESSAGE value=" Implementing Logging feature and Generating HTML Reports with Logging Integration" />
     <MESSAGE value="test run using cli" />
     <MESSAGE value="jenkins integration running from local" />
-    <option name="LAST_COMMIT_MESSAGE" value="jenkins integration running from local" />
+    <MESSAGE value="jenkins integration running from local&#10;excel demo integration for data driven" />
+    <option name="LAST_COMMIT_MESSAGE" value="jenkins integration running from local&#10;excel demo integration for data driven" />
   </component>
 </project>
