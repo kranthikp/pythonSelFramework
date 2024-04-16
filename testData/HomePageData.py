@@ -4,4 +4,4 @@ class HomePageData:
                             {"firstname": "Sagar", "lastname": "Mittapelly", "gender": "Male"},
                           {"firstname": "Ravi Teja", "lastname": "Korati", "gender": "Male"},
                           {"firstname": "Siva", "lastname": "Lakshmi", "gender": "Female"},
-                          {"firstname": "Venkatesh", "lastname": "Godishala", "gender": "male"}]
+                          {"firstname": "Venkatesh", "lastname": "Godishala", "gender": "Male"}]

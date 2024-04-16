@@ -1,2 +1,4 @@
 /.venv/
 
+/tests/logfile.log
+/tests/result.xml
